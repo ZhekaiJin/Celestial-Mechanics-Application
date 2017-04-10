@@ -1,4 +1,3 @@
-
 % Earth-Moon system in normalized rotating frame
 x = linspace(-1.5, 1.5, 1000);
 y = linspace(-1.5, 1.5, 1000);
