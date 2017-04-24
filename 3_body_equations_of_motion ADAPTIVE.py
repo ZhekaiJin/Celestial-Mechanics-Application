@@ -20,7 +20,7 @@ start_time = time.time()  #clock the start time
 m1= 5.972e24 
 m2= 7.347e22
 miu=m2/(m1+m2)
-Target=0.000001  ## change target accuray !!!!
+Target=1e-15  ## change target accuray !!!!
 
 #define function for effective potential as seen in literature
 def effpot(x,y):
