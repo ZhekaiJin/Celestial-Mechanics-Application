@@ -3,4 +3,7 @@ Physics simulation deploying three-body model and four-body model to achieve a f
 
 
 Using three-body model with a conservation of energy
-![alt tag](https://github.com/jollybao/LCS/blob/master/demo/VF_demo.gif)
+
+
+
+![alt tag](https://github.com/ZhekaiJin/Celestial-Mechanics-Application/blob/Lagrange-Potential-Field/animation.gif)
