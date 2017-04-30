@@ -7,9 +7,8 @@ all: librebound
 	@echo ""
 	@echo "Compiling problem file ..."
 	$(CC) -I../src/ -Wl,-rpath,./ $(OPT) $(PREDEF) problem.c -L. -lrebound $(LIB) -o output
-	@echo ""
+	@echo ""	
 	@echo "REBOUND compiled successfully."
-
 librebound: 
 	@echo "Compiling shared library librebound.so ..."
 	$(MAKE) -C ../src/
