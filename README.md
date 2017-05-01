@@ -45,9 +45,11 @@ test case 2:
 ![alt tag](https://github.com/ZhekaiJin/Celestial-Mechanics-Application/blob/three_body_problem/Primitive%20three%20body%20problem/zero%20momentum%20attempt/test%20case%202/2body_case2.gif)
 
 stable trajectory:
+
 ![alt tag](https://github.com/ZhekaiJin/Celestial-Mechanics-Application/blob/three_body_problem/Primitive%20three%20body%20problem/zero%20momentum%20attempt/test%20case%202/stable_testcase2.gif)
 
 normal case:
+
 ![alt tag](https://github.com/ZhekaiJin/Celestial-Mechanics-Application/blob/three_body_problem/Primitive%20three%20body%20problem/zero%20momentum%20attempt/test%20case%202/unstable_testcase2.gif)
 
 At the end, the deterministic chaotic pattern in the optimal trajectory in the solution can be justified by modeling a scenrio where 1000 spaceships are added into concentric orbits around a star with different radius. And at the same time, a second planet is added at the boundary and its force on those spaceships are considered. The effect will be like this:
