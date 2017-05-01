@@ -14,7 +14,7 @@ planet2=sphere(pos=vector(1.5e11,0,0), radius=1e10, color=color.blue,
 planet1.m=2e30
 planet2.m=1e30
 planet1.p = vector(0, 0, -1e4) * planet1.m
-planet2.p = -sun1.p
+planet2.p = -planet1.p
 #notice that the total momentum is zero vector
 dt= 1e5
 while True:
