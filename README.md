@@ -21,9 +21,9 @@ Animation: Using three-body model with a conservation of energy
 
 The Energy change is concluded to be within 1E-5 J and trajectory is concluded to be around the lagrange points and has a specfic shape as follow:
 
-![alt tag](https://github.com/ZhekaiJin/Celestial-Mechanics-Application/blob/three_body_problem/Optimum%20Trajectory%20in%20earth_moon%20system/RK4%20approximation/Energy.png)
+![alt tag](https://github.com/ZhekaiJin/Celestial-Mechanics-Application/blob/three_body_problem/Optimum%20Trajectory%20in%20earth_moon%20system/RK4%20approximation%20by%20Jacob/Position_3_body--Jacob.png)
 
-![alt tag](https://github.com/ZhekaiJin/Celestial-Mechanics-Application/blob/three_body_problem/Optimum%20Trajectory%20in%20earth_moon%20system/RK4%20approximation/Position%203-body.png)
+![alt tag](https://github.com/ZhekaiJin/Celestial-Mechanics-Application/blob/three_body_problem/Optimum%20Trajectory%20in%20earth_moon%20system/RK4%20approximation%20by%20Jacob/Energy--Jacob.png)
 
 Next step how ever is to escalate to a general three body, but we start with the two body problem in a zero momentum frame and call them test case 1 and 2,
 test case 1
