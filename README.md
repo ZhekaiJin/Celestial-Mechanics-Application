@@ -13,6 +13,8 @@ Then, the gravitational potential field of the earth and moon is computed which 
 
 ![alt tag](https://github.com/ZhekaiJin/Celestial-Mechanics-Application/blob/three_body_problem/Lagrange%20field%20and%20point/2-D%20plot.png)
 
+![alt tag](https://github.com/ZhekaiJin/Celestial-Mechanics-Application/blob/four_body-problem/Lagrange%20field%20and%20point/output.png)
+
 The trajectory, with a specfic starting point, is then found using Legendre transformation and Euler-Lagrange equations to give a low-energy path way. 
 
 Animation: Using three-body model with a conservation of energy
