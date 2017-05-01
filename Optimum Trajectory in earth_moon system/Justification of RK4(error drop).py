@@ -54,7 +54,8 @@ ypoints = []
 r = array([0.2,0.7, 0.0, 0.0],float)
 
 def RK4(r,h,t):
-    C=c**(-log((H/h), 2))
+    #C=c**(-log((H/h), 2))
+    C=1
     R=array([r[0],r[1],r[2],r[3]],float)
     while t< 3.1*h:
         if t ==3*h:
