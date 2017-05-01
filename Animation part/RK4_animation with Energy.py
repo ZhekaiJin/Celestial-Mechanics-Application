@@ -11,7 +11,6 @@ import matplotlib.patches as mpatches
 m1= 5.972e24 
 m2= 7.347e22
 miu=m2/(m1+m2)
-
 #define function for effective potential as seen in literature
 def effpot(x,y):
     P1=-miu
