@@ -17,7 +17,7 @@ The trajectory, with a specfic starting point, is then found using Legendre tran
 
 Animation: Using three-body model with a conservation of energy
 
-![alt tag](https://github.com/ZhekaiJin/Celestial-Mechanics-Application/blob/Lagrange-Potential-Field/animation.gif)
+![alt tag](https://github.com/ZhekaiJin/Celestial-Mechanics-Application/blob/three_body_problem/Animation%20part/Animation.gif)
 
 The Energy change is concluded to be within 1E-5 J and trajectory is concluded to be around the lagrange points and has a specfic shape as follow:
 
