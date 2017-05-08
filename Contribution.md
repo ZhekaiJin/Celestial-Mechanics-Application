@@ -1,4 +1,4 @@
-Contribution List:
+# CONTRIBUTION LIST
 
 Project Memeber: Scott Jin & Jacob Maarek 
 
@@ -10,9 +10,9 @@ Project Presentation: Scott Jin & Jacob Maarek
 
 Github  Update : Scott Jin
 
-THREE BODY PROBLEM->
+## Three Body Problem->
 
-Lagrange field and point>>>
+### Lagrange field and point>>>
 
 
 Lagrange field.m     	-Scott Jin         
@@ -21,7 +21,7 @@ Lagrange_magnitude.m    -Scott Jin
 
 Find_Lagrange point.py  -Scott Jin 
 
-Optimum Trajectory in earth_moon system>>>
+### Optimum Trajectory in earth_moon system>>>
 
 3_body_equations_of_motion.py  -Jacob Maarek
 
@@ -30,21 +30,25 @@ Optimum Trajectory in earth_moon system>>>
 Justification of RK4(error drop)  -Scott Jin 
 
 
-Primitive three body problem>>>
+### Primitive three body problem>>>
 
 zero momentum attempt.testcase1&testcase2&Euler upgrade  -Scott Jin 
 
 Influence on test spaceship.c   -Scott Jin 
 
-FOUR BODY PROBLEM->
 
+
+## FOUR BODY PROBLEM->
+
+### Four body model trajectory>>>
 4_body_earth_moon.py   -Jacob Maarek
 
-4 body animation       -Scott Jin 
+4 body animation.py       -Scott Jin 
 
-Optimazation>>>
 
-E-S-M rotation -Scott Jin 
+### Optimazation>>>
+
+E-S-M rotation.py  -Scott Jin 
 
 earth sun moon rotation in xz plane -Scott Jin 
 
