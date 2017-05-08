@@ -1,3 +1,4 @@
+#author:scott
 GlowScript 2.1 VPython
 # this program is runnable in trinket glowscript which is based on vpython 
 G=6.67e-11   #gravitational constant

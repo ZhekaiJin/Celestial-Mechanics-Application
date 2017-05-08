@@ -1,9 +1,6 @@
 /**
  * Restricted three body problem.
- *
- * This example simulates a disk of test particles around 
- * a central object, being perturbed by a planet. 
- * It uses the heliocentric version of WHFast. 
+ * author: scott
  */
 #include <stdio.h>
 #include <stdlib.h>

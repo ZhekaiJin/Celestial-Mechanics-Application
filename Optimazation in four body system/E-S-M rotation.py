@@ -1,3 +1,5 @@
+
+#author :scott
 import math
 from visual import *
 

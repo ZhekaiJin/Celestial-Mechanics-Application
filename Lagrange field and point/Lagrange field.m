@@ -1,4 +1,4 @@
-% Earth-Moon system in normalized rotating frame
+% Earth-Moon system in normalized rotating frame by scott
 x = linspace(-1.5, 1.5, 1000);
 y = linspace(-1.5, 1.5, 1000);
 [X, Y] = meshgrid(x, y);

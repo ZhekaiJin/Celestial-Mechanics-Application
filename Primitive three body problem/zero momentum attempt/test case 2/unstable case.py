@@ -1,3 +1,4 @@
+#author:scott
 from vpython import *
 # setting up immaginary constant for zero momentum
 R=1

@@ -1,3 +1,4 @@
+#author:scott
 #some constants
 from vpython import * 
 scene.forward = vector(0,-.25,-1)

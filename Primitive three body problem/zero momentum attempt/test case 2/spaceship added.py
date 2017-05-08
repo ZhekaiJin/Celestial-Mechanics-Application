@@ -1,3 +1,4 @@
+#author:scott
 #constants
 from vpython import *
 R=1

@@ -1,4 +1,7 @@
-from __future__ import division,print_function  
+
+# author : scott
+
+from __future__ import division,print_function
 from numpy import linspace,meshgrid,sqrt, array, arange, sin, cos
 from pylab import plot, show, xlabel, ylabel
 from math import pi

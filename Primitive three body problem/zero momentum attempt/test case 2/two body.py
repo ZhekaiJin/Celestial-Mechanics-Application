@@ -1,3 +1,5 @@
+
+#author:scott
 from vpython import *
 #some constants
 

@@ -1,3 +1,5 @@
+
+#author : scott
 from visual import *
 import math
 def main():
