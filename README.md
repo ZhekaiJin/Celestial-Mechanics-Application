@@ -1,7 +1,11 @@
 # Celestial-Mechanics-Application
 Physics simulation deploying three-body model and four-body model to achieve a fuel-efficient spaceship trajectory
 
+## Three body Problem
+
 Firstly, the three-body system is constructed with earth, moon and a spaceship as example. The trajectory of spaceship around earth is designed to maximize the utilization of gravitational pulls of earth and moon to keep the change in the gravitational energy of the third body (the spaceship) to a minimum.
+
+### Lagrange Point and Potential
 
 Firstly, the Lagrange point of the earth and moon system need to be found. The Lagrange point is position where the gradational pulls of the two bodies, earth and moon in this case, together to give the centripetal force that the third body needs:
 
@@ -12,6 +16,8 @@ Animation for Lagrange point 1 in normalized earth and moon frame:
 Then, the gravitational potential field of the earth and moon is computed which gives both the Lagrange points and the general idea of the ideal trajectory.
 
 ![alt tag](https://github.com/ZhekaiJin/Celestial-Mechanics-Application/blob/three_body_problem/Lagrange%20field%20and%20point/2-D%20plot.png)
+
+### Fuel-free Trajectory
 
 The trajectory, with a specfic starting point, is then found using Legendre transformation and Euler-Lagrange equations to give a low-energy path way. 
 
@@ -25,8 +31,11 @@ The Energy change is concluded to be within 1E-5 J and trajectory is concluded t
 
 ![alt tag](https://github.com/ZhekaiJin/Celestial-Mechanics-Application/blob/three_body_problem/Optimum%20Trajectory%20in%20earth_moon%20system/RK4%20approximation%20by%20Jacob/Energy--Jacob.png)
 
+### General Three body probelm 
+
 Next step how ever is to escalate to a general three body, but we start with the two body problem in a zero momentum frame and call them test case 1 and 2,
-test case 1
+
+#### Test Case 1
 
 ![alt tag](https://github.com/ZhekaiJin/Celestial-Mechanics-Application/blob/three_body_problem/Primitive%20three%20body%20problem/zero%20momentum%20attempt/test%20case%201/2_body_testcase1.gif)
 
@@ -38,28 +47,31 @@ A trajectory stating from given intial point goes into the two body and then lea
 
 The same idea goes in test case 2, however, exception exists when the intial condition happens to give the spaceship a trajectory which is relatively stable. In that case, another accerlaratin is needed.
 
-test case 2:
+#### Test Case 2
 
-2 body:
+`2 body: ` 
 
 ![alt tag](https://github.com/ZhekaiJin/Celestial-Mechanics-Application/blob/three_body_problem/Primitive%20three%20body%20problem/zero%20momentum%20attempt/test%20case%202/2body_case2.gif)
 
-stable trajectory:
+`stable trajectory: `
 
 ![alt tag](https://github.com/ZhekaiJin/Celestial-Mechanics-Application/blob/three_body_problem/Primitive%20three%20body%20problem/zero%20momentum%20attempt/test%20case%202/stable_testcase2.gif)
 
-normal case:
+`normal case:`
 
 ![alt tag](https://github.com/ZhekaiJin/Celestial-Mechanics-Application/blob/three_body_problem/Primitive%20three%20body%20problem/zero%20momentum%20attempt/test%20case%202/unstable_testcase2.gif)
 
-At the end, the deterministic chaotic pattern in the optimal trajectory in the solution can be justified by modeling a scenrio where 1000 spaceships are added into concentric orbits around a star with different radius. And at the same time, a second planet is added at the boundary and its force on those spaceships are considered. The effect will be like this:
+### Deterministic Chaos
+
+* At the end, the deterministic chaotic pattern in the optimal trajectory in the solution can be justified by modeling a scenrio where 1000 spaceships are added into concentric orbits around a star with different radius. And at the same time, a second planet is added at the boundary and its force on those spaceships are considered. The effect will be like this:
 
 ![alt tag](https://github.com/ZhekaiJin/Celestial-Mechanics-Application/blob/three_body_problem/Primitive%20three%20body%20problem/Influence%20on%20test%20spaceship/restricted_threebody/optimized.gif)
 
-An new upgraded Euler-accuray program with changable speed.
+* An new upgraded Euler-accuray program with changable speed.
 https://sites.google.com/site/celestialmechanicspresentation/home/three-body-design
 
-P.S.
+### Justification of RK4
+
 justification of RK4 in this method is proved with error drop by 16 with h drops by a factor of 1/2:
 ![alt tag](https://github.com/ZhekaiJin/Celestial-Mechanics-Application/blob/master/Optimum%20Trajectory%20in%20earth_moon%20system/output-2.png)
 
@@ -67,25 +79,32 @@ justification of RK4 in this method is proved with error drop by 16 with h drops
 
 After three body problem, we extend to the problem to include the sun's effect on the spaceship, too. But we are still focus on the earth and moon rotating frame.
 
-Four Body Probelm:
+## Four Body Probelm:
+
+### Fuel-free Trajectory
 
 Animation including the sun:
 
 ![alt tag](https://github.com/ZhekaiJin/Celestial-Mechanics-Application/blob/four_body-problem/Presentation/4%20BODY.gif)
 
 
-The final trajectory and energy change of the trajectory:
+* The final trajectory and energy change of the trajectory:
 
 ![alt tag](https://github.com/ZhekaiJin/Celestial-Mechanics-Application/blob/four_body-problem/Presentation/18217721_1908629269426223_312539679_n.png)
 
-The energy conservation is held.
+* The energy conservation is held.
 
-And the final trajectory is like this:
+* And the final trajectory is like this:
 
 ![alt tag](https://github.com/ZhekaiJin/Celestial-Mechanics-Application/blob/four_body-problem/Presentation/18254533_1908629252759558_1318339708_n.png)
 
 
-Optimazaiotn:
+### Optimazaiotn:
+
+
+![alt tag](https://github.com/ZhekaiJin/Celestial-Mechanics-Application/blob/master/Presentation/show.png)
+
 
 
 ![alt tag](https://github.com/ZhekaiJin/Celestial-Mechanics-Application/blob/four_body-problem/Optimazation%20in%20four%20body%20system/output.png)
+
