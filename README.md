@@ -67,7 +67,7 @@
 
 ![alt tag](https://github.com/ZhekaiJin/Celestial-Mechanics-Application/blob/three_body_problem/Primitive%20three%20body%20problem/Influence%20on%20test%20spaceship/restricted_threebody/optimized.gif)
 
-* An new upgraded Euler-accuray program with changable speed.
+### An new upgraded Euler-accuray program with changable speed.
 https://sites.google.com/site/celestialmechanicspresentation/home/three-body-design
 
 ### Justification of RK4
