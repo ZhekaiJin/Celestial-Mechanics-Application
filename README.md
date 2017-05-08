@@ -59,11 +59,6 @@ At the end, the deterministic chaotic pattern in the optimal trajectory in the s
 An new upgraded Euler-accuray program with changable speed.
 https://sites.google.com/site/celestialmechanicspresentation/home/three-body-design
 
-P.S.
-justification of RK4 in this method is not proved with error drop by 16 with h drops by a factor of 1/2:
-![alt tag](https://github.com/ZhekaiJin/Celestial-Mechanics-Application/blob/three_body_problem/Optimum%20Trajectory%20in%20earth_moon%20system/output.png)
-
-The RK2 behaviour is due to the way to find the partial derivative use only central limit therom which is RK2 level, thus, a change of method will be applied.
 
 
 
