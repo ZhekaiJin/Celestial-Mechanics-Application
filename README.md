@@ -56,6 +56,9 @@ At the end, the deterministic chaotic pattern in the optimal trajectory in the s
 
 ![alt tag](https://github.com/ZhekaiJin/Celestial-Mechanics-Application/blob/three_body_problem/Primitive%20three%20body%20problem/Influence%20on%20test%20spaceship/restricted_threebody/optimized.gif)
 
+An new upgraded Euler-accuray program with changable speed.
+https://sites.google.com/site/celestialmechanicspresentation/home/three-body-design
+
 P.S.
 justification of RK4 in this method is not proved with error drop by 16 with h drops by a factor of 1/2:
 ![alt tag](https://github.com/ZhekaiJin/Celestial-Mechanics-Application/blob/three_body_problem/Optimum%20Trajectory%20in%20earth_moon%20system/output.png)
