@@ -1,8 +1,5 @@
 #some constants
 from vpython import * 
-
-
-
 scene.forward = vector(0,-.25,-1)
 G=6.7e-11  #fake gravitational constant
 #create the objects
