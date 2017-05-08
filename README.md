@@ -19,3 +19,9 @@ The energy conservation is held.
 And the final trajectory is like this:
 
 ![alt tag](https://github.com/ZhekaiJin/Celestial-Mechanics-Application/blob/four_body-problem/Presentation/18254533_1908629252759558_1318339708_n.png)
+
+
+Optimazaiotn:
+
+
+![alt tag](https://github.com/ZhekaiJin/Celestial-Mechanics-Application/blob/four_body-problem/Optimazation%20in%20four%20body%20system/output.png)
