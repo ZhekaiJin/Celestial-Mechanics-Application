@@ -18,4 +18,4 @@
 
 ![alt tag](https://github.com/ZhekaiJin/Celestial-Mechanics-Application/blob/three_body_problem/Optimum%20Trajectory%20in%20earth_moon%20system/RK4%20approximation%20by%20Jacob/Energy--Jacob.png)
 
-** Contributer ** Scott
+**Contributer** Scott Jin
