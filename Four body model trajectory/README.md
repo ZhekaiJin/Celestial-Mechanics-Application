@@ -1,5 +1,7 @@
 # Four body problem
-**Contirbuter** /4 body animation.py  Scott jin   /4_body_earth_moon.py  Jacob Maarek
+**Contirbuter** 
+* ./4 body animation.py  Scott jin   
+* ./4_body_earth_moon.py  Jacob Maarek
 
 ## This part is for the Fuel free trajectory which takes one more planet, sun, into consideration and its animation
 
