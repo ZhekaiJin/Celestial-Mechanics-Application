@@ -37,7 +37,7 @@
 * testcase2   -Scott Jin 
 * Euler upgrade  -Scott Jin 
 
-#### Influence on test spaceship
+#### Influence on test spaceship(Proof of Derterministic Chaos)
 
 * Problem.c -Scott Jin 
 
