@@ -14,6 +14,8 @@ https://github.com/ZhekaiJin/Celestial-Mechanics-Application/blob/master/Cited%2
 
 * firstly a real-time-accuracy sun earth and moon Euclidian space animation was made-->E-S-M rotation.py
 
+! [alt tag](https://github.com/ZhekaiJin/Celestial-Mechanics-Application/blob/master/Presentation/show.png)
+
 * And a easier version was made by generalize all the coefficients for speed and angular momentum.-->earth sun moon rotation in xz plane
 
 * The spaceship trajectory can be easily added into teh program by a transformation frame formula for x and y 
@@ -22,4 +24,4 @@ https://github.com/ZhekaiJin/Celestial-Mechanics-Application/blob/master/Cited%2
 
 * The capture result is coarsely shown here with further explanation in the project Document 
 
-! [alt tag](https://github.com/ZhekaiJin/Celestial-Mechanics-Application/tree/master/Presentation) 
+! [alt tag](https://github.com/ZhekaiJin/Celestial-Mechanics-Application/blob/master/Optimazation%20in%20four%20body%20system/output.png) 
