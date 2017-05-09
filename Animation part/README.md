@@ -1,4 +1,5 @@
-# Animation part     **Contributer** Scott Jin
+# Animation part     
+**Contributer** Scott Jin
 
 ## This part is for the animation making for the Fuel free trajectory 
 
