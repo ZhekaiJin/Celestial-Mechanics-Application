@@ -1,4 +1,4 @@
-# Animation part
+# Animation part     **Contributer** Scott Jin
 
 ## This part is for the animation making for the Fuel free trajectory 
 
@@ -18,4 +18,3 @@
 
 ![alt tag](https://github.com/ZhekaiJin/Celestial-Mechanics-Application/blob/three_body_problem/Optimum%20Trajectory%20in%20earth_moon%20system/RK4%20approximation%20by%20Jacob/Energy--Jacob.png)
 
-**Contributer** Scott Jin
