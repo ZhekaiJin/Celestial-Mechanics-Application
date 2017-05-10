@@ -1,0 +1,4 @@
+src/main/resources/static/* linguist-vendored
+
+*.rb linguist-language=Python
+
