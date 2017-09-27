@@ -10,11 +10,11 @@
 
 ## This part is for four body optimatzation which generally follow the paper we followed for our project 
 
-https://github.com/ZhekaiJin/Celestial-Mechanics-Application/blob/master/Cited%20Paper.pdf
+https://github.com/ZhekaiJin/Celestial-Mechanics-Application/master/Cited%20Paper.pdf
 
 * firstly a real-time-accuracy sun earth and moon Euclidian space animation was made-->E-S-M rotation.py
 
-![alt tag](https://github.com/ZhekaiJin/Celestial-Mechanics-Application/blob/master/Presentation/show.png)
+![alt tag](https://github.com/ZhekaiJin/Celestial-Mechanics-Application/master/Presentation/show.png)
 
 * And a easier version was made by generalize all the coefficients for speed and angular momentum.-->earth sun moon rotation in xz plane
 
@@ -24,4 +24,4 @@ https://github.com/ZhekaiJin/Celestial-Mechanics-Application/blob/master/Cited%2
 
 * The capture result is coarsely shown here with further explanation in the project Document 
 
-![alt tag](https://github.com/ZhekaiJin/Celestial-Mechanics-Application/blob/master/Optimazation%20in%20four%20body%20system/output.png) 
+![alt tag](https://github.com/ZhekaiJin/Celestial-Mechanics-Application/master/Optimazation%20in%20four%20body%20system/output.png) 
