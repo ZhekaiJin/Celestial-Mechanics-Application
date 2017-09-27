@@ -10,7 +10,7 @@
 
 ## This part is for four body optimatzation which generally follow the paper we followed for our project 
 
-https://github.com/ZhekaiJin/Celestial-Mechanics-Application/master/Cited%20Paper.pdf
+https://github.com/ZhekaiJin/Celestial-Mechanics-Application/Cited%20Paper.pdf
 
 * firstly a real-time-accuracy sun earth and moon Euclidian space animation was made-->E-S-M rotation.py
 
