@@ -102,7 +102,7 @@ https://sites.google.com/site/celestialmechanicspresentation/home/three-body-des
 ### Optimazaiotn:
 
 
-![alt tag](https://github.com/ZhekaiJin/Celestial-Mechanics-Application/blob/master/Presentation/show.png)
+![alt tag](https://github.com/ZhekaiJin/Celestial-Mechanics-Application/blob/master/src/Presentation/show.png)
 
 
 
