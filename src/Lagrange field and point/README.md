@@ -18,5 +18,5 @@
 
 * Lagrange points is found by the golden search method bulit-in by python package to find all the maximas.
 
-![alt tag](https://github.com/ZhekaiJin/Celestial-Mechanics-Application/blob/master/Lagrange%20field%20and%20point/output.png)
+![alt tag](https://github.com/ZhekaiJin/Celestial-Mechanics-Application/blob/master/src/Lagrange%20field%20and%20point/output.png)
 
