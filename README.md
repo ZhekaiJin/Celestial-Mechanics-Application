@@ -67,7 +67,7 @@
 
 ![alt tag](https://github.com/ZhekaiJin/Celestial-Mechanics-Application/blob/three_body_problem/Primitive%20three%20body%20problem/Influence%20on%20test%20spaceship/restricted_threebody/optimized.gif)
 
-#### An newly upgraded accurate approximation to Euler's three-body problem with changeable speed. ([link](https://sites.google.com/site/celestialmechanicspresentation/home/three-body-design))
+#### A newly upgraded accurate approximation to Euler's three-body problem with changeable speed. ([link](https://sites.google.com/site/celestialmechanicspresentation/home/three-body-design))
 
 #### Justification of RK4
 
