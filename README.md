@@ -72,7 +72,7 @@
 #### Justification of RK4
 
 * justification of RK4 in this method is proved with error drop by 16 with h drops by a factor of 1/2:
-![alt tag](https://github.com/ZhekaiJin/Celestial-Mechanics-Application/blob/master/Optimum%20Trajectory%20in%20earth_moon%20system/output-2.png)
+![alt tag](src/Optimum%20Trajectory%20in%20earth_moon%20system/output-2.png)
 
 * After three-body problem, we extend to the problem to include the sun's effect on the spaceship, too. But we are still focused on the earth and moon rotating frame.
 
