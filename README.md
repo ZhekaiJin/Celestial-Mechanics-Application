@@ -25,7 +25,7 @@
 
 ![alt tag](https://github.com/ZhekaiJin/Celestial-Mechanics-Application/blob/three_body_problem/Animation%20part/Animation.gif)
 
-* The Energy change is concluded to be within 1E-5 J and trajectory is concluded to be around the Lagrange points and has a specific shape as follow:
+* The Energy change is concluded to be within 1 e<sup>-5</sup> J and trajectory is concluded to be around the Lagrange points and has a specific shape as follow:
 
 ![alt tag](https://github.com/ZhekaiJin/Celestial-Mechanics-Application/blob/three_body_problem/Optimum%20Trajectory%20in%20earth_moon%20system/RK4%20approximation%20by%20Jacob/Position_3_body--Jacob.png)
 
